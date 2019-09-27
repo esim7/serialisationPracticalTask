@@ -1,0 +1,8 @@
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\bin\Debug\netcoreapp3.0\ClassLib.deps.json
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\bin\Debug\netcoreapp3.0\ClassLib.dll
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\obj\Debug\netcoreapp3.0\ClassLib.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\obj\Debug\netcoreapp3.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\obj\Debug\netcoreapp3.0\ClassLib.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\bin\Debug\netcoreapp3.0\ClassLib.pdb
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\obj\Debug\netcoreapp3.0\ClassLib.dll
+C:\Users\МакишевЕ\source\repos\ClassLib\ClassLib\obj\Debug\netcoreapp3.0\ClassLib.pdb

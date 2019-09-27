@@ -1,0 +1,3 @@
+C:\Users\МакишевЕ\source\repos\ClassLib\SerializConsoleApp\obj\Debug\netcoreapp3.0\SerializConsoleApp.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ClassLib\SerializConsoleApp\obj\Debug\netcoreapp3.0\SerializConsoleApp.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\ClassLib\SerializConsoleApp\obj\Debug\netcoreapp3.0\SerializConsoleApp.AssemblyInfo.cs
